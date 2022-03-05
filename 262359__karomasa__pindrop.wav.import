@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/262359__karomasa__pindrop.wav-5ef79f48c3eecd99be67e152b6dbba0b.sample"
+
+[deps]
+
+source_file="res://262359__karomasa__pindrop.wav"
+dest_files=[ "res://.import/262359__karomasa__pindrop.wav-5ef79f48c3eecd99be67e152b6dbba0b.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
