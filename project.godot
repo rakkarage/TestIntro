@@ -8,16 +8,6 @@
 
 config_version=4
 
-_global_script_classes=[ {
-"base": "Object",
-"class": "Utility",
-"language": "GDScript",
-"path": "res://Utility.gd"
-} ]
-_global_script_class_icons={
-"Utility": ""
-}
-
 [application]
 
 config/name="TestIntro"
@@ -31,4 +21,3 @@ common/enable_pause_aware_picking=true
 [rendering]
 
 quality/driver/driver_name="GLES2"
-environment/default_environment="res://default_env.tres"
