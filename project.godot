@@ -12,7 +12,6 @@ config_version=4
 
 config/name="TestIntro"
 run/main_scene="res://Demo.tscn"
-config/icon="res://icon.png"
 
 [physics]
 
